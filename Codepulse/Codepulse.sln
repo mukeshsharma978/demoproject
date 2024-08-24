@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34221.43
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Codepulse", "Codepulse.csproj", "{51349FF1-2C7A-484A-B1A7-DF5CBF0C429C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{51349FF1-2C7A-484A-B1A7-DF5CBF0C429C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{51349FF1-2C7A-484A-B1A7-DF5CBF0C429C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{51349FF1-2C7A-484A-B1A7-DF5CBF0C429C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{51349FF1-2C7A-484A-B1A7-DF5CBF0C429C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1935D86A-47CA-4A24-BBCC-F3F9C574E5C1}
+	EndGlobalSection
+EndGlobal
