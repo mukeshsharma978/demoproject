@@ -28,12 +28,12 @@ namespace Codepulse.Controllers
                  UrlHandle = requesdt.UrlHandle
             };
 
-            await _categoryRepository.CreateAsync(category);
+            category = await _categoryRepository.CreateAsync(category);
 
 
                //domain model to dto
 
-               var response = new CategoryDto
+            var response = new CategoryDto
             {
                 Id= category.Id, Name = category.Name, UrlHandle = category.UrlHandle
             };
